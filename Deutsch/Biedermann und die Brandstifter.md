@@ -1,1 +1,0 @@
-## Biedermann als Parabel
