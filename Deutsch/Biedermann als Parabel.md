@@ -9,11 +9,11 @@
 * Brandstifter nutzen Biedermanns Gutgläubigkeit aus, um das Haus anzuzünden
 
 #### Doppelmoral des Westens:
-* Westen beansprucht moralische Überlegenheit
+* Westen beansprucht moralische Überlegenheit `Beispiel Afghanistan`
 * Propagierung von Freiheit, Menschenrechten und Demokratie
-* Unterstützung von unterdrückerischen Regimen
-* Führung von Kriegen im Namen des Friedens
-* Verletzung eigener demokratischer Prinzipien
+* Unterstützung von unterdrückerischen Regimen `Katar`
+* Führung von Kriegen im Namen des Friedens `Afghanistan`, `Vietnam`
+* Verletzung eigener demokratischer Prinzipien 
 
 #### Parallele zur Doppelmoral in "Biedermann und die Brandstifter":
 * Westen ignoriert wahre Absichten einiger Verbündeter
