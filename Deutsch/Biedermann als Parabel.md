@@ -3,7 +3,7 @@
 ### Stichpunkte
 
 #### Analogie zu "Biedermann und die Brandstifter":
-*Jjjj
+
 * Biedermann als Symbol für den Westen
 * Brandstifter als zwielichtige Gestalten
 * Biedermanns Naivität und Toleranz gegenüber den Brandstiftern
