@@ -17,12 +17,12 @@
 * Verletzung eigener demokratischer Prinzipien 
 
 #### Parallele zur Doppelmoral in "Biedermann und die Brandstifter":
-* Westen ignoriert wahre Absichten einiger Verbündeter
-* Blenden von vermeintlicher Nützlichkeit
-* Einlass fragwürdiger Akteure ohne Erkennen ihrer bösartigen Absichten
+* Westen ignoriert wahre Absichten einiger Verbündeter ´nato ist verteidigungsbündnis, kein Fokus auf Angriffe´
+* Blenden von vermeintlicher Nützlichkeit (kriegerischer) Auseinandersetzungen
+* Kooperationen mit fragwürdigen Akteuren ohne Erkennen deren bösartigen Absichten
 
 #### Notwendigkeit der Selbstreflexion und Kritik:
 * Bewusstwerden der schädlichen Auswirkungen der Doppelmoral
 * Vereinbarkeit von Handlungen mit eigenen Werten prüfen
 * Kritische Überprüfung von Verbündeten und Partnern
-* Bekämpfung der eigenen Doppelmoral für gerechtere Welt
+* Bekämpfung der eigenen Doppelmoral für gerechtere Welt (-> Umdenken)
