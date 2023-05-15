@@ -3,26 +3,25 @@
 ### Stichpunkte
 
 #### Analogie zu "Biedermann und die Brandstifter":
+* Biedermann als Symbol für den Westen
+* Brandstifter als zwielichtige Gestalten
+* Biedermanns Naivität und Toleranz gegenüber den Brandstiftern
+* Brandstifter nutzen Biedermanns Gutgläubigkeit aus, um das Haus anzuzünden
 
-Biedermann als Symbol für den Westen
-Brandstifter als zwielichtige Gestalten
-Biedermanns Naivität und Toleranz gegenüber den Brandstiftern
-Brandstifter nutzen Biedermanns Gutgläubigkeit aus, um das Haus anzuzünden
-Doppelmoral des Westens:
+#### Doppelmoral des Westens:
+* Westen beansprucht moralische Überlegenheit
+* Propagierung von Freiheit, Menschenrechten und Demokratie
+* Unterstützung von unterdrückerischen Regimen
+* Führung von Kriegen im Namen des Friedens
+* Verletzung eigener demokratischer Prinzipien
 
-Westen beansprucht moralische Überlegenheit
-Propagierung von Freiheit, Menschenrechten und Demokratie
-Unterstützung von unterdrückerischen Regimen
-Führung von Kriegen im Namen des Friedens
-Verletzung eigener demokratischer Prinzipien
-Parallele zur Doppelmoral in "Biedermann und die Brandstifter":
+#### Parallele zur Doppelmoral in "Biedermann und die Brandstifter":
+* Westen ignoriert wahre Absichten einiger Verbündeter
+* Blenden von vermeintlicher Nützlichkeit
+* Einlass fragwürdiger Akteure ohne Erkennen ihrer bösartigen Absichten
 
-Westen ignoriert wahre Absichten einiger Verbündeter
-Blenden von vermeintlicher Nützlichkeit
-Einlass fragwürdiger Akteure ohne Erkennen ihrer bösartigen Absichten
-Notwendigkeit der Selbstreflexion und Kritik:
-
-Bewusstwerden der schädlichen Auswirkungen der Doppelmoral
-Vereinbarkeit von Handlungen mit eigenen Werten prüfen
-Kritische Überprüfung von Verbündeten und Partnern
-Bekämpfung der eigenen Doppelmoral für gerechtere Welt
+#### Notwendigkeit der Selbstreflexion und Kritik:
+* Bewusstwerden der schädlichen Auswirkungen der Doppelmoral
+* Vereinbarkeit von Handlungen mit eigenen Werten prüfen
+* Kritische Überprüfung von Verbündeten und Partnern
+* Bekämpfung der eigenen Doppelmoral für gerechtere Welt
