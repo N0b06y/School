@@ -1,4 +1,5 @@
 # Löslichkeit
+
 ## Tabelle
 
 Säure           |Formel                                         |Mit Wasser |Mit Heptan |Mit Sirup  |Sdp
@@ -10,6 +11,7 @@ Valeriansäure   |CH<sub>3</sub>(CH<sub>2</sub>)<sub>3</sub>COOH |-          |+ 
 Palmitinsäure   |CH<sub>3</sub>(CH<sub>2</sub>)<sub>14</sub>COOH|-          |+          |62,5°C     |351,5°C
 Stearinsäure    |CH<sub>3</sub>(CH<sub>2</sub>)<sub>16</sub>COOH|-          |-          |61,3°C     |360,4°C
 
+
 ## Versuch
 __Material:__ Reagenzgläser, Reagenzglasständer
 
@@ -20,5 +22,13 @@ __Durchführung:__
 __Beobachtung:__ 
 __Auswertung:__
 
+
 ### Bemerkung:
 Ameisensäure hat schon einen hohen Siedepunkt, da es eine dimäre Säure ist
+
+
+## Allgemeine Summenformel von Carbonsäuren
+__C<sub>n</sub>H<sub>2n+1</sub>COOH__
+
+## Nomenklatur
+Alles, was die die Carboxi Gruppe hat ist eine Karbonsäure (Alkanol, Alkanal, ...).
