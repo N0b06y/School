@@ -19,3 +19,6 @@ __Durchführung:__
 2.  Alle Säurn mit Heptan mischen (je 1cm)
 __Beobachtung:__ 
 __Auswertung:__
+
+### Bemerkung:
+Ameisensäure hat schon einen hohen Siedepunkt, da es eine dimäre Säure ist
