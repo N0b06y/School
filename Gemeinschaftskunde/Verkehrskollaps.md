@@ -20,10 +20,11 @@
 ## Lösung
 * Wirtschaftliche Anreize für den Ausbau des Fernverkehrs
 + Treiben: Automobilkonzerne zur Bahnindustrie
-=> Mögichkeit vollständige Ersetzung eines neuen Bahnnetzes mit neuen Technologien + Durchsertzung neuer Bahnrouten (durch schnelle Enteignung)
+=> Mögichkeit vollständige Ersetzung eines neuen Bahnnetzes mit neuen Technologien 
++ Durchsertzung neuer Bahnrouten (durch schnelle Enteignung)
 
 => Attraktivere Möglichkeit für Reisen
 + Integration: Bahn als Premium-Reisemöglichkeit        
 => Weniger Automobil-Nutzung
 
-=> Weniger Verkehr
+=> Weniger Verkehr auf den Straßen
