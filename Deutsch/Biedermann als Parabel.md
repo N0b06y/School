@@ -54,3 +54,16 @@
 * Vereinbarkeit von Handlungen mit eigenen Werten prüfen
 * Kritische Überprüfung von Verbündeten und Partnern
 * Bekämpfung der eigenen Doppelmoral für gerechtere Welt (-> Umdenken)
+
+### Biedermanns Analoge
+> Unterstützung der Brandstifter
+Biedermann leugnet die Realität und nimmt sie als Scherz auf (S.68)
+Er unterstützt sie durch Untätigkeit, bsp auf dem Dachboden mit dem Polizisten S. 41, und mangelden Widerstand sowie durch Beschaffung der Materialen (Streichhölzer S.81)
+> Bildebene
+Verletzung eigener moralischer Prinzipien
+Bsp: Biedermann erkennt die Bedrohung bei den Benzinfässern (S.48), handelt jedoch nicht und setzt auf Gastfreundschaft (S.51)
+B. gibt den Brandstiftern die Streichhölzer (S.81) und verweigert die Verantwortung zu übernehmen (S. 84)
+
+Benspruchung moralischer Überlegenheit Biedermanns
+Am Stammtisch auf den Tisch schlagen und Menschlichkeit ausrufen (S.11) sowie an das Gute im Menschen glauben (S.57) und behaupten kein Unmensch zu sein (S.11)
+Biedermann glaube nicht an Klassenunterschiede (S.55)
